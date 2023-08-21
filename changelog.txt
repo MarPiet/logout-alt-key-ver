@@ -1,0 +1,284 @@
+
+As always, Check to verify that your logout functionality still exists.
+
+171: may 27 2023 
+	added support for custom exe
+	removed explicit support for diablo2 (Game.exe)
+	removed explicit support for d2r (d2r.exe)
+
+170: september 25 2021
+	support for Diablo 2 Resurrected
+	its a new checkbox, soon i'll add support for a custom exe name
+
+169: july 6 2021
+	IMPORTANT: fixed logout to use new binary names
+	removed 32bit support following ggg removal of 32bit binary
+
+168: december 21 2019
+	Added "Alert Whisper"
+	If you ctrl+v ingame and it is a message to a player (first character is an @ symbol), the watcher will alert you if you've already sent that message.
+	It stores the last 7 messages youve pasted to a player and shows them all.
+	Helps you not spam people when trade sites duplicate data while you scroll.
+	Can disable in settings. "Alert whisper" in the first column near the top.
+
+	ctrl+v is created as a hotkey that only fires when PoE is active if the setting is enabled.
+	If the setting is disabled, the hotkey will not be fired, nothing will run, no messages will be logged.
+	If you would like to inspect the code, the relevant lines in heavy.ahk in this version are: 304, 1398, 1593
+
+167: december 31, 2018:
+	removes accidental 'a' msgbox. oops.
+
+166: december 31, 2018:
+	fixes issues with pulling remote content (rank,prices,ladders etc)
+
+165: december 1, 2018
+	i forgot a comma
+
+164: december 1, 2018
+	updated some menu title names
+
+163: december 1 2018
+	You can now right-click the ahk icon in the taskbar to open settings and stuff.
+
+162: december 1 2018
+	Actually fixes broken launcher updates.
+
+161: december 1 2018
+	Fixes broken launcher updates.
+
+160: december 1 2018
+	Added a lite version. Only has logout functionality. It will be useful for integrations, like the impending integration with the PoE Trade Macro.
+	New users will be first shown the lite-version. Veteran users need to opt-in (button in settings).
+	A plug for the PoE Trade Macro
+	Revamped settings read/write
+	Moves things into its own folder
+
+159: december 28 2017
+	Won't query rank if you have it hidden.
+	Fixes league listing duplication in settings.
+	Checks active poe window by ahk_class instead of window name.
+
+158: december 27 2017
+	apparently hiding the window that way breaks win7/8.1 but not 10... Thats cool, thanks microsoft.
+
+157: december 27 2017
+	fixes fps issue some people had with overlay hidden. (ability overlay now correctly hides with rank overlay)
+
+156: december 23 2017
+	fixes rank not showing a value for some people
+
+155: december 23 2017
+	adjusts rank refresh rate
+
+154+155+156:
+	- Removes whisper checking. Its been broken for a while and is pretty useless now.
+	- COOLDOWN/BUFF TRACKING: Added 7 spots for cooldown tracking. 
+		Input ability hotkey, the effect duration, and a color.
+		When you hit the hotkey it'll start a small ovlay'd timer to show remaining duration.
+		I use it for flasks / "x on recently y" things, and elementalists 10sec pen
+	- Hotkey to kick last person whispered from group. Useful for trading if youre the party leader.
+	- Checkbox to enable stash scrolling while in PoE. Ctrl+mousewheel will move between stash tabs.
+	- New ranking API implementation. Due to GGG api request limits, ranks used to have ~25 minute update times.
+		This new change allows ranks to be checked much more frequently.
+
+153: december 8 2017
+	- A small change to the settings menu :)
+
+152: december 8 2017
+	- Some ranking stuff, after adjusting for ggg api changes
+
+151: august 20 2017
+	- Adjusts settings UI a bit
+
+150: august 7 2017
+	- Better clarity for incorrect setting warnings
+	- Warning box shares overlay color
+	- Removed an error-prone setting
+	- fixed some stuff with ladder ranks
+
+149: august 6 2017
+	- Changes the way that the script elevates its privledge. Should fix the issues for some users. Credit to /u/xanthics for the suggestion.
+
+148: august 4 2017
+	- Fixes ranking with uppercase letters :D
+
+147: august 4 2017
+	- fixed upgrade case from <146 to 146+
+
+146: august 4 2017
+	- Adjusted look and feel of ranking overlay (it's pretty now)
+	- Can adjust overlay background and text color by hex values. Requires restart.
+
+145: august 3 2017
+	- Some text updates, nothing serious.
+
+144: june 25 2017
+	- Adjusts the regex for parsing league names, makes the UI wider because these 2wk mayhem league names are damn long...
+
+143: march 13 2017
+	- Price Checking -- Fixed it for unique maps.
+
+142: march 12 2017
+	- Price Checking! Uses an api that sources from poe.ninja for aggregate pricing information on non-generic (rare/magic-ish) items. 
+	- Uses your current league set in ladder tracking. Assign 'Price Check' to a hotkey and try it out.
+	- Small text clarifications.
+
+141: january 7 2017
+	- setup critical sections during logout to prevent thread interruption
+	- misc changes to debugging process
+
+140: december 10 2016
+	- Edits rank overlay notification for unranked players.
+	- Clarifies issues when path of exile executable name mismatch is detected.
+	- Fixes various issues initialization and runtime issues.
+
+139: december 6 2016
+	- fixes rank overlay
+	- changes copy for logout settings notifier to be more accurate
+	- adds a bit more error logging
+
+138: december 1 2016
+	- removes /itemlevel
+	- adds /whois
+	- adds notifier to overlay when your logout may not work. (when it is detected that you have poe running, but your settings are invalid for a quick successful logout)
+	- Attempts to logout with detected backup if main logout and backup logout both fail.
+
+137: november 22 2016
+	- Removes support for hotkeyed party messages
+	- Repurposes it for any hotkeyed commands. Use the %$#@ chat symbols however you want.
+
+136: november 17 2016
+	- I forgot to support steam
+
+135: november 17 2016
+	- Adds support for x64 Path of exile logout
+
+134: august 27 2016
+	- changing how this script checks for updates.
+	- stops rank check when overlay is inactive.
+
+133: august 25 2016
+	- fixes an issue launching for new users
+
+132: august 24 2016
+	- ranking uses new api, in anticipation of the shutdown of /u/trackpete's api suite. Some ranking information will be lost. Some of what was lost may be reimplemented in the future.
+
+131: may 12 2016
+	- ranking now also shows number of alive players above you.
+
+130: may 6 2016
+	- Ranking no longer needs account name
+	- Added the ability to quicklogout in diablo2 :D , only works on force logout because i'm lazy. (because force logout lacks the requirement of PoE being open)
+	- Added individual rank within ascendancy class (Thanks /u/trackpete)
+	- moved the old beta logout to normal logout. will still fallback on cports
+
+129: april 5 2016
+	- Set required AHK version to 1.1.23 for fixes.
+	- Fixes initialization error on fresh installs.
+	- Adds error logging, and logout times for better debugging.
+
+128: april 3 2016
+	- Fixes SSF ranking
+
+127: april 3 2016
+	- Slight optimization in QDL, hides it from task bar.
+	- Fixes ladder tracking and some data initialization.
+
+126: april 2 2016
+	- Removes usage of most instances of URLDownloadToFile, as that function hangs the script wile its downloading its files.
+	- This was noticed due to the ladder ranking page by /u/trackpete seeming to go down.
+	- Now creates and uses QDL.ahk in the Lib folder to asynchronously download required data for ladder tracking
+	- There might be slight issues displaying correct ranking information, but it should remove delays.
+
+125: april 1 2016
+	- Not april fools
+	- Added primary support for SSF custom test league
+	- Added custom method to find PoE PID when multiple instances are running
+	- Errors are a bit more clear
+
+124: march 4 2016
+	- Shows cportsless logout method! - Activate the beta logout in settings to test.
+	- Will fall back to cports logout if it fails, and alert you with an error number if it happens on the overlay.
+	- Adds a keepalive at the request of /u/GhostOfAscalon that will keep cports in memory if you had delays in the past on first logout.
+	- The keepalive will only run if you're not configured to use the beta logout.
+
+123: december 11 2015
+	- Fixed an error in the logout.
+
+122: december 11 2015
+	- Added cports-less TCP-disconnect functionality - hidden by default
+	- Removed talisman overlay information
+	- Fixed some errors where errors are intrusive, and where other important ones are silent.
+	- General code cleanup
+
+121: august 25 2015
+	- Errors changed to use the overlay to display if there is a problem. No more popups, Hooray!
+
+120: july 23 2015
+	- Adds a slight timer after logout function to prevent multiple keypresses from disrupting the process.
+	- Fixes a bug where the 'Channel' map was not displayed for the TempestWatch tracker.
+	- Added better log debug statements for when things break. Specifically file-gets.
+	- F10 GUI menu also shows your current AHK version, also for debug reasons.
+	- Tempest list refreshes every 7.5 minutes from the poetempests.com api.
+	- Fixes longstanding bug with rank tracking at low levels.
+
+119: july 10 2015
+	- LastWhispers now checks last 75 lines of log file instead of last 25. This should catch most/all whispers quickly even in fast moving trade+global chat.
+	- Fixed LastWhispers bug with identical messages. Should be more foolproof this time.
+	- Whisper check delay also set to 10 seconds. It wont allow < 10 seconds.
+	- Config GUI (Default F10) no longer requires PoE to be active.
+	- Theres a tempest UI Overlay that you can change to with F9.
+
+118: may 17 2015
+	- Fixed bug when no whispers were availble to poll for.
+	
+117: may 17 2015
+	- Request fufilled:: Added SuperLogout : Functionally similar to regular Logout, It will however run even if PoE isnt the active window : IE, something tabs you out, or you crash. Can be used in place of regular logout.
+	- fixed a bug in whisper notification that excluded whisper contents in the notification. I may have broken it more, but it seems like its fixed now.
+	- Overlay was made slightly wider (+25 pixels) to fix an overlapping issue in 5-digit ranks.
+	- Rank updater will wait five minutes to update. It will then ping every minute until the data is updated. It then waits 5 minutes again. (Similar to how /u/trackpete set up his)
+
+116: may 16 2015
+	- macro saves your overlay state when you open the GUI, and will load in that state in the future until changed again.
+	- can see changelog from update menu in the future.
+
+115: may 8 2015
+	- Added sound ping for whisper notification : can be changed in menu. *32 seems to be silent.
+	- Fixed a tooltip display boolean bug with whisper notification
+	- League selector dynamically updates
+	- UTF-8 usernames work correctly
+
+114: may 3 2015
+	- added this changelog to the script.
+
+113: april 30 2015
+	- fixed overlay when poe is not open
+
+112: april 29 2015
+	- macro does near-nothing that relys on the main loop when PoE isnt open.
+
+111: april 29 2015
+	- added whisper notification when you're tabbed out and PoE is running.
+	- fixed some overlay buggyness
+	- overlay saving state is almost done. not in this update.
+
+110: april 24 2015
+	- added support for 5day race overlay
+
+109: april 22 2015
+	- Able to move the overlay with x/y offsets in GUI
+
+108: april 19  2015
+	- Dropdown for league.
+
+107: april 19  2015
+	- woops. I broke something. Fixed now.
+
+106: april 19  2015
+	- Changed settings.ini to utf-8/16 for prep when poe.pwx.me puts utf-8/16 to allow char/account names with non utf-8 characters. You can extract your account name from the json if your charName was correct when the data was pulled to use it in the mean time.
+	- Added whisper / party chat macros. Check f10 for the list of them
+	- Ability to quickly change hotkeys in settings.
+
+105: april 14 2015
+	- Start of changelogs. Autoupdating implemented.
+	- More efficent command sending.

@@ -1,0 +1,6318 @@
+==================================================
+Process Name      : expressvpnd.exe
+Process ID        : 4448
+Protocol          : TCP
+Local Port        : 49672
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 49673
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : kiinteistomediaverkkokauppa.local
+State             : Established
+Process Path      : C:\Program Files (x86)\ExpressVPN\expressvpnd\expressvpnd.exe
+Product Name      : ExpressVPN Service
+File Description  : ExpressVPN Service
+File Version      : 21.41.1
+Company           : ExpressVPN
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\SYSTEM
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : expressvpnd.exe
+Process ID        : 4448
+Protocol          : TCP
+Local Port        : 49673
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 49672
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : kiinteistomediaverkkokauppa.local
+State             : Established
+Process Path      : C:\Program Files (x86)\ExpressVPN\expressvpnd\expressvpnd.exe
+Product Name      : ExpressVPN Service
+File Description  : ExpressVPN Service
+File Version      : 21.41.1
+Company           : ExpressVPN
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\SYSTEM
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : expressvpnd.exe
+Process ID        : 4448
+Protocol          : TCP
+Local Port        : 60842
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 60840
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : kiinteistomediaverkkokauppa.local
+State             : Established
+Process Path      : C:\Program Files (x86)\ExpressVPN\expressvpnd\expressvpnd.exe
+Product Name      : ExpressVPN Service
+File Description  : ExpressVPN Service
+File Version      : 21.41.1
+Company           : ExpressVPN
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\SYSTEM
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : expressvpnd.exe
+Process ID        : 4448
+Protocol          : TCP
+Local Port        : 2015
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Program Files (x86)\ExpressVPN\expressvpnd\expressvpnd.exe
+Product Name      : ExpressVPN Service
+File Description  : ExpressVPN Service
+File Version      : 21.41.1
+Company           : ExpressVPN
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\SYSTEM
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : ExpressVPNNotificationService.exe
+Process ID        : 20716
+Protocol          : TCP
+Local Port        : 60840
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 60842
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : kiinteistomediaverkkokauppa.local
+State             : Established
+Process Path      : C:\Program Files (x86)\ExpressVPN\expressvpn-ui\ExpressVPNNotificationService.exe
+Product Name      : ExpressVPN
+File Description  : ExpressVPN Notifications
+File Version      : 10.11.0.13
+Company           : ExpressVPN
+Process Created On: 6.1.2023 13.07.54
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : ExpressVPNNotificationService.exe
+Process ID        : 20716
+Protocol          : TCP
+Local Port        : 60840
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Program Files (x86)\ExpressVPN\expressvpn-ui\ExpressVPNNotificationService.exe
+Product Name      : ExpressVPN
+File Description  : ExpressVPN Notifications
+File Version      : 10.11.0.13
+Company           : ExpressVPN
+Process Created On: 6.1.2023 13.07.54
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse 3.exe
+Process ID        : 14732
+Protocol          : TCP
+Local Port        : 60694
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe
+Product Name      : Razer Synapse 3
+File Description  : Razer Synapse 3
+File Version      : 3.1.627.5
+Company           : Razer Inc.
+Process Created On: 6.1.2023 13.07.21
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse 3.exe
+Process ID        : 14732
+Protocol          : TCP
+Local Port        : 60918
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe
+Product Name      : Razer Synapse 3
+File Description  : Razer Synapse 3
+File Version      : 3.1.627.5
+Company           : Razer Inc.
+Process Created On: 6.1.2023 13.07.21
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse 3.exe
+Process ID        : 14732
+Protocol          : TCP
+Local Port        : 60913
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe
+Product Name      : Razer Synapse 3
+File Description  : Razer Synapse 3
+File Version      : 3.1.627.5
+Company           : Razer Inc.
+Process Created On: 6.1.2023 13.07.21
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse 3.exe
+Process ID        : 14732
+Protocol          : TCP
+Local Port        : 60906
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe
+Product Name      : Razer Synapse 3
+File Description  : Razer Synapse 3
+File Version      : 3.1.627.5
+Company           : Razer Inc.
+Process Created On: 6.1.2023 13.07.21
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse 3.exe
+Process ID        : 14732
+Protocol          : TCP
+Local Port        : 60901
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe
+Product Name      : Razer Synapse 3
+File Description  : Razer Synapse 3
+File Version      : 3.1.627.5
+Company           : Razer Inc.
+Process Created On: 6.1.2023 13.07.21
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse 3.exe
+Process ID        : 14732
+Protocol          : TCP
+Local Port        : 60909
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe
+Product Name      : Razer Synapse 3
+File Description  : Razer Synapse 3
+File Version      : 3.1.627.5
+Company           : Razer Inc.
+Process Created On: 6.1.2023 13.07.21
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse 3.exe
+Process ID        : 14732
+Protocol          : TCP
+Local Port        : 60919
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe
+Product Name      : Razer Synapse 3
+File Description  : Razer Synapse 3
+File Version      : 3.1.627.5
+Company           : Razer Inc.
+Process Created On: 6.1.2023 13.07.21
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse Service Process.exe
+Process ID        : 25000
+Protocol          : TCP
+Local Port        : 60616
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\Service\..\UserProcess\Razer Synapse Service Process.exe
+Product Name      : Razer Synapse Service Process
+File Description  : Razer Synapse Service Process
+File Version      : 1.0.0.0
+Company           : 
+Process Created On: 6.1.2023 13.07.01
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse Service Process.exe
+Process ID        : 25000
+Protocol          : TCP
+Local Port        : 60610
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\Service\..\UserProcess\Razer Synapse Service Process.exe
+Product Name      : Razer Synapse Service Process
+File Description  : Razer Synapse Service Process
+File Version      : 1.0.0.0
+Company           : 
+Process Created On: 6.1.2023 13.07.01
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse Service Process.exe
+Process ID        : 25000
+Protocol          : TCP
+Local Port        : 60607
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\Service\..\UserProcess\Razer Synapse Service Process.exe
+Product Name      : Razer Synapse Service Process
+File Description  : Razer Synapse Service Process
+File Version      : 1.0.0.0
+Company           : 
+Process Created On: 6.1.2023 13.07.01
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse Service Process.exe
+Process ID        : 25000
+Protocol          : TCP
+Local Port        : 60613
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\Service\..\UserProcess\Razer Synapse Service Process.exe
+Product Name      : Razer Synapse Service Process
+File Description  : Razer Synapse Service Process
+File Version      : 1.0.0.0
+Company           : 
+Process Created On: 6.1.2023 13.07.01
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RazerCentralService.exe
+Process ID        : 3928
+Protocol          : TCP
+Local Port        : 65005
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 3.232.144.130
+Remote Host Name  : ec2-3-232-144-130.compute-1.amazonaws.com
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+Product Name      : Razer Central Service
+File Description  : Razer Central Service
+File Version      : 7.8.0.381
+Company           : Razer Inc.
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\SYSTEM
+Process Services  : RzActionSvc
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Spotify.exe
+Process ID        : 8300
+Protocol          : UDP
+Local Port        : 1900
+Local Port Name   : ssdp
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : C:\Users\marku\AppData\Roaming\Spotify\Spotify.exe
+Product Name      : Spotify
+File Description  : Spotify
+File Version      : 1.2.0.1165
+Company           : Spotify Ltd
+Process Created On: 6.1.2023 15.35.09
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Spotify Free
+==================================================
+
+==================================================
+Process Name      : Spotify.exe
+Process ID        : 8300
+Protocol          : TCP
+Local Port        : 62441
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Users\marku\AppData\Roaming\Spotify\Spotify.exe
+Product Name      : Spotify
+File Description  : Spotify
+File Version      : 1.2.0.1165
+Company           : Spotify Ltd
+Process Created On: 6.1.2023 15.35.09
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Spotify Free
+==================================================
+
+==================================================
+Process Name      : Spotify.exe
+Process ID        : 8300
+Protocol          : TCP
+Local Port        : 62442
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 4070
+Remote Port Name  : 
+Remote Address    : 34.158.0.131
+Remote Host Name  : 131.0.158.34.bc.googleusercontent.com
+State             : Established
+Process Path      : C:\Users\marku\AppData\Roaming\Spotify\Spotify.exe
+Product Name      : Spotify
+File Description  : Spotify
+File Version      : 1.2.0.1165
+Company           : Spotify Ltd
+Process Created On: 6.1.2023 15.35.09
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Spotify Free
+==================================================
+
+==================================================
+Process Name      : Spotify.exe
+Process ID        : 8300
+Protocol          : UDP
+Local Port        : 5353
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : C:\Users\marku\AppData\Roaming\Spotify\Spotify.exe
+Product Name      : Spotify
+File Description  : Spotify
+File Version      : 1.2.0.1165
+Company           : Spotify Ltd
+Process Created On: 6.1.2023 15.35.09
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Spotify Free
+==================================================
+
+==================================================
+Process Name      : Spotify.exe
+Process ID        : 8300
+Protocol          : UDP
+Local Port        : 57796
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : C:\Users\marku\AppData\Roaming\Spotify\Spotify.exe
+Product Name      : Spotify
+File Description  : Spotify
+File Version      : 1.2.0.1165
+Company           : Spotify Ltd
+Process Created On: 6.1.2023 15.35.09
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Spotify Free
+==================================================
+
+==================================================
+Process Name      : Spotify.exe
+Process ID        : 8300
+Protocol          : TCP
+Local Port        : 62445
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 35.186.224.47
+Remote Host Name  : 47.224.186.35.bc.googleusercontent.com
+State             : Established
+Process Path      : C:\Users\marku\AppData\Roaming\Spotify\Spotify.exe
+Product Name      : Spotify
+File Description  : Spotify
+File Version      : 1.2.0.1165
+Company           : Spotify Ltd
+Process Created On: 6.1.2023 15.35.09
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Spotify Free
+==================================================
+
+==================================================
+Process Name      : Spotify.exe
+Process ID        : 14440
+Protocol          : TCP
+Local Port        : 62447
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 35.186.224.41
+Remote Host Name  : 41.224.186.35.bc.googleusercontent.com
+State             : Established
+Process Path      : C:\Users\marku\AppData\Roaming\Spotify\Spotify.exe
+Product Name      : Spotify
+File Description  : Spotify
+File Version      : 1.2.0.1165
+Company           : Spotify Ltd
+Process Created On: 6.1.2023 15.35.10
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Spotify.exe
+Process ID        : 8300
+Protocol          : TCP
+Local Port        : 57621
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Users\marku\AppData\Roaming\Spotify\Spotify.exe
+Product Name      : Spotify
+File Description  : Spotify
+File Version      : 1.2.0.1165
+Company           : Spotify Ltd
+Process Created On: 6.1.2023 15.35.09
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Spotify Free
+==================================================
+
+==================================================
+Process Name      : Spotify.exe
+Process ID        : 8300
+Protocol          : UDP
+Local Port        : 5353
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : C:\Users\marku\AppData\Roaming\Spotify\Spotify.exe
+Product Name      : Spotify
+File Description  : Spotify
+File Version      : 1.2.0.1165
+Company           : Spotify Ltd
+Process Created On: 6.1.2023 15.35.09
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Spotify Free
+==================================================
+
+==================================================
+Process Name      : Spotify.exe
+Process ID        : 8300
+Protocol          : UDP
+Local Port        : 57795
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : C:\Users\marku\AppData\Roaming\Spotify\Spotify.exe
+Product Name      : Spotify
+File Description  : Spotify
+File Version      : 1.2.0.1165
+Company           : Spotify Ltd
+Process Created On: 6.1.2023 15.35.09
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Spotify Free
+==================================================
+
+==================================================
+Process Name      : Spotify.exe
+Process ID        : 8300
+Protocol          : UDP
+Local Port        : 57621
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : C:\Users\marku\AppData\Roaming\Spotify\Spotify.exe
+Product Name      : Spotify
+File Description  : Spotify
+File Version      : 1.2.0.1165
+Company           : Spotify Ltd
+Process Created On: 6.1.2023 15.35.09
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Spotify Free
+==================================================
+
+==================================================
+Process Name      : steam.exe
+Process ID        : 17692
+Protocol          : TCP
+Local Port        : 27036
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Program Files (x86)\Steam\steam.exe
+Product Name      : Steam
+File Description  : Steam
+File Version      : 07.72.78.29
+Company           : Valve Corporation
+Process Created On: 6.1.2023 13.07.17
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Steam
+==================================================
+
+==================================================
+Process Name      : steam.exe
+Process ID        : 17692
+Protocol          : TCP
+Local Port        : 27060
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Program Files (x86)\Steam\steam.exe
+Product Name      : Steam
+File Description  : Steam
+File Version      : 07.72.78.29
+Company           : Valve Corporation
+Process Created On: 6.1.2023 13.07.17
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Steam
+==================================================
+
+==================================================
+Process Name      : steam.exe
+Process ID        : 17692
+Protocol          : UDP
+Local Port        : 27036
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : C:\Program Files (x86)\Steam\steam.exe
+Product Name      : Steam
+File Description  : Steam
+File Version      : 07.72.78.29
+Company           : Valve Corporation
+Process Created On: 6.1.2023 13.07.17
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Steam
+==================================================
+
+==================================================
+Process Name      : steam.exe
+Process ID        : 17692
+Protocol          : TCP
+Local Port        : 27060
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 61193
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : kiinteistomediaverkkokauppa.local
+State             : Established
+Process Path      : C:\Program Files (x86)\Steam\steam.exe
+Product Name      : Steam
+File Description  : Steam
+File Version      : 07.72.78.29
+Company           : Valve Corporation
+Process Created On: 6.1.2023 13.07.17
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Steam
+==================================================
+
+==================================================
+Process Name      : steam.exe
+Process ID        : 17692
+Protocol          : TCP
+Local Port        : 60668
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 27037
+Remote Port Name  : 
+Remote Address    : 162.254.198.104
+Remote Host Name  : 162-254-198-104.valve.net
+State             : Established
+Process Path      : C:\Program Files (x86)\Steam\steam.exe
+Product Name      : Steam
+File Description  : Steam
+File Version      : 07.72.78.29
+Company           : Valve Corporation
+Process Created On: 6.1.2023 13.07.17
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Steam
+==================================================
+
+==================================================
+Process Name      : steam.exe
+Process ID        : 17692
+Protocol          : TCP
+Local Port        : 49527
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 184.86.60.65
+Remote Host Name  : a184-86-60-65.deploy.static.akamaitechnologies.com
+State             : Established
+Process Path      : C:\Program Files (x86)\Steam\steam.exe
+Product Name      : Steam
+File Description  : Steam
+File Version      : 07.72.78.29
+Company           : Valve Corporation
+Process Created On: 6.1.2023 13.07.17
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Steam
+==================================================
+
+==================================================
+Process Name      : steam.exe
+Process ID        : 17692
+Protocol          : TCP
+Local Port        : 49526
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 193.229.113.10
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Steam\steam.exe
+Product Name      : Steam
+File Description  : Steam
+File Version      : 07.72.78.29
+Company           : Valve Corporation
+Process Created On: 6.1.2023 13.07.17
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: A
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Steam
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 15856
+Protocol          : TCP
+Local Port        : 49524
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 40.69.147.210
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 21.27.19
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 15856
+Protocol          : TCP
+Local Port        : 49525
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 13.107.5.91
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 21.27.19
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 3864
+Protocol          : UDP
+Local Port        : 4500
+Local Port Name   : ipsec-msft
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\SYSTEM
+Process Services  : IKEEXT
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 3168
+Protocol          : UDP
+Local Port        : 5353
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.45
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Quin69 - Twitch - Google Chrome
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49528
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 151.101.246.167
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49529
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 151.101.66.167
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49530
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 108.156.14.180
+Remote Host Name  : server-108-156-14-180.hel51.r.cloudfront.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49531
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 108.156.14.180
+Remote Host Name  : server-108-156-14-180.hel51.r.cloudfront.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49532
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 151.101.246.167
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49533
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 35.80.253.147
+Remote Host Name  : ec2-35-80-253-147.us-west-2.compute.amazonaws.com
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49534
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 151.101.246.167
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49535
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 108.156.22.83
+Remote Host Name  : server-108-156-22-83.hel51.r.cloudfront.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49536
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 54.69.157.224
+Remote Host Name  : ec2-54-69-157-224.us-west-2.compute.amazonaws.com
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49537
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 108.156.22.17
+Remote Host Name  : server-108-156-22-17.hel51.r.cloudfront.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49538
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 151.101.246.167
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49539
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 151.101.246.167
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49540
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 74.125.131.95
+Remote Host Name  : lu-in-f95.1e100.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49541
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 104.18.13.133
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49542
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 193.229.109.105
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49543
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 216.58.210.131
+Remote Host Name  : hem08s06-in-f3.1e100.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49544
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 108.156.14.180
+Remote Host Name  : server-108-156-14-180.hel51.r.cloudfront.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 3116
+Protocol          : UDP
+Local Port        : 3702
+Local Port Name   : ws-discovery
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.48
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : FDResPub
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49546
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 108.156.14.180
+Remote Host Name  : server-108-156-14-180.hel51.r.cloudfront.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49547
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 18.165.122.89
+Remote Host Name  : server-18-165-122-89.hel51.r.cloudfront.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49548
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 192.99.44.206
+Remote Host Name  : sockets.betterttv.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49549
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 104.26.1.19
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49555
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 104.18.12.133
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 6412
+Protocol          : UDP
+Local Port        : 3702
+Local Port Name   : ws-discovery
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.51
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49557
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 104.26.7.201
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 10020
+Protocol          : TCP
+Local Port        : 49558
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 54.231.168.125
+Remote Host Name  : s3-website-us-east-1.amazonaws.com
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 21.27.29
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Macro Settings Version 170 :: AHK Version 1.1.33.02
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49559
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 151.101.244.193
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 796
+Protocol          : TCP
+Local Port        : 49664
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.47
+User Name         : NT-hallinta\SYSTEM
+Process Services  : KeyIso, SamSs, VaultSvc
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 716
+Protocol          : TCP
+Local Port        : 49665
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 1464
+Protocol          : TCP
+Local Port        : 49666
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.47
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : EventLog
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 1344
+Protocol          : TCP
+Local Port        : 49667
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.47
+User Name         : NT-hallinta\SYSTEM
+Process Services  : Schedule
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 3324
+Protocol          : TCP
+Local Port        : 49668
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.49
+User Name         : NT-hallinta\SYSTEM
+Process Services  : Spooler
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4432
+Protocol          : TCP
+Local Port        : 49669
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\Verkkopalvelu
+Process Services  : MSMQ
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49515
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 64.233.164.113
+Remote Host Name  : lf-in-f113.1e100.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49513
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 52.223.204.178
+Remote Host Name  : video-edge-785fee.hel03.justin.tv
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 788
+Protocol          : TCP
+Local Port        : 49675
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 15928
+Protocol          : UDP
+Local Port        : 5353
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.07.30
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 3888
+Protocol          : TCP
+Local Port        : 60578
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 20.199.120.182
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\SYSTEM
+Process Services  : WpnService
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49521
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 104.26.1.19
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2676
+Protocol          : UDP
+Local Port        : 5353
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.48
+User Name         : NT-hallinta\Verkkopalvelu
+Process Services  : Dnscache
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2676
+Protocol          : UDP
+Local Port        : 5355
+Local Port Name   : llmnr
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.48
+User Name         : NT-hallinta\Verkkopalvelu
+Process Services  : Dnscache
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49507
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 99.181.79.15
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 61003
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 35.81.91.242
+Remote Host Name  : ec2-35-81-91-242.us-west-2.compute.amazonaws.com
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 61006
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 44.240.92.60
+Remote Host Name  : ec2-44-240-92-60.us-west-2.compute.amazonaws.com
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 61009
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 5228
+Remote Port Name  : 
+Remote Address    : 142.251.1.188
+Remote Host Name  : lb-in-f188.1e100.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 61024
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 192.99.44.206
+Remote Host Name  : sockets.betterttv.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 61028
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 192.99.44.206
+Remote Host Name  : sockets.betterttv.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61066
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 23.43.140.167
+Remote Host Name  : a23-43-140-167.deploy.static.akamaitechnologies.com
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61067
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 23.43.140.167
+Remote Host Name  : a23-43-140-167.deploy.static.akamaitechnologies.com
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61068
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 23.43.140.167
+Remote Host Name  : a23-43-140-167.deploy.static.akamaitechnologies.com
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61069
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 23.43.140.167
+Remote Host Name  : a23-43-140-167.deploy.static.akamaitechnologies.com
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61070
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 2.20.0.249
+Remote Host Name  : a2-20-0-249.deploy.static.akamaitechnologies.com
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61071
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 2.20.0.146
+Remote Host Name  : a2-20-0-146.deploy.static.akamaitechnologies.com
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61072
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 2.20.0.146
+Remote Host Name  : a2-20-0-146.deploy.static.akamaitechnologies.com
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61073
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 2.20.0.146
+Remote Host Name  : a2-20-0-146.deploy.static.akamaitechnologies.com
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61074
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 2.20.0.146
+Remote Host Name  : a2-20-0-146.deploy.static.akamaitechnologies.com
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61075
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 2.20.0.146
+Remote Host Name  : a2-20-0-146.deploy.static.akamaitechnologies.com
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61076
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 2.20.0.146
+Remote Host Name  : a2-20-0-146.deploy.static.akamaitechnologies.com
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61077
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 2.20.0.249
+Remote Host Name  : a2-20-0-249.deploy.static.akamaitechnologies.com
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61078
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 2.20.0.249
+Remote Host Name  : a2-20-0-249.deploy.static.akamaitechnologies.com
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61079
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 93.184.220.29
+Remote Host Name  : 
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61083
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 93.184.220.29
+Remote Host Name  : 
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61084
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 93.184.220.29
+Remote Host Name  : 
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61085
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 93.184.220.29
+Remote Host Name  : 
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61086
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 93.184.220.29
+Remote Host Name  : 
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61087
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 93.184.220.29
+Remote Host Name  : 
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61088
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 93.184.220.29
+Remote Host Name  : 
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61089
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 93.184.220.29
+Remote Host Name  : 
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 3116
+Protocol          : UDP
+Local Port        : 61302
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.48
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : FDResPub
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61092
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 2.20.0.249
+Remote Host Name  : a2-20-0-249.deploy.static.akamaitechnologies.com
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61094
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 2.20.0.146
+Remote Host Name  : a2-20-0-146.deploy.static.akamaitechnologies.com
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61095
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 2.20.0.146
+Remote Host Name  : a2-20-0-146.deploy.static.akamaitechnologies.com
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61096
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 2.20.0.146
+Remote Host Name  : a2-20-0-146.deploy.static.akamaitechnologies.com
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61097
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 2.20.0.146
+Remote Host Name  : a2-20-0-146.deploy.static.akamaitechnologies.com
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61098
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 2.20.0.146
+Remote Host Name  : a2-20-0-146.deploy.static.akamaitechnologies.com
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 13328
+Protocol          : TCP
+Local Port        : 61193
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 27060
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : kiinteistomediaverkkokauppa.local
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.07.20
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49504
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 108.156.22.25
+Remote Host Name  : server-108-156-22-25.hel51.r.cloudfront.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 820
+Protocol          : TCP
+Local Port        : 135
+Local Port Name   : epmap
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.47
+User Name         : NT-hallinta\Verkkopalvelu
+Process Services  : RpcEptMapper, RpcSs
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49520
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 104.18.13.133
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49501
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 35.162.42.135
+Remote Host Name  : ec2-35-162-42-135.us-west-2.compute.amazonaws.com
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 62963
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 193.26.156.254
+Remote Host Name  : mail.rootonline.de
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 15900
+Protocol          : TCP
+Local Port        : 64760
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 93.184.220.29
+Remote Host Name  : 
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 20.07.01
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 6452
+Protocol          : UDP
+Local Port        : 61860
+Local Port Name   : 
+Local Address     : fe80::ea12:d8b8:240a:521c
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.52
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 65223
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 44.236.163.136
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 65226
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 44.241.26.145
+Remote Host Name  : ec2-44-241-26-145.us-west-2.compute.amazonaws.com
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 65232
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 192.99.44.206
+Remote Host Name  : sockets.betterttv.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 65247
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 192.99.44.206
+Remote Host Name  : sockets.betterttv.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 65394
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 151.101.246.167
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 445
+Local Port Name   : microsoft-ds
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 2869
+Local Port Name   : icslap
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5357
+Local Port Name   : wsd
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 14836
+Protocol          : TCP
+Local Port        : 7680
+Local Port Name   : ms-do
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : DoSvc
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4592
+Protocol          : TCP
+Local Port        : 23130
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.07.03
+User Name         : NT-hallinta\SYSTEM
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4592
+Protocol          : TCP
+Local Port        : 23133
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.07.03
+User Name         : NT-hallinta\SYSTEM
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : UDP
+Local Port        : 137
+Local Port Name   : netbios-ns
+Local Address     : 192.168.1.102
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : UDP
+Local Port        : 137
+Local Port Name   : netbios-ns
+Local Address     : 192.168.56.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : UDP
+Local Port        : 138
+Local Port Name   : netbios-dgm
+Local Address     : 192.168.1.102
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : UDP
+Local Port        : 138
+Local Port Name   : netbios-dgm
+Local Address     : 192.168.56.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 3864
+Protocol          : UDP
+Local Port        : 500
+Local Port Name   : isakmp
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\SYSTEM
+Process Services  : IKEEXT
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49482
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 104.26.7.201
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 6452
+Protocol          : UDP
+Local Port        : 1900
+Local Port Name   : ssdp
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.52
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 6452
+Protocol          : UDP
+Local Port        : 1900
+Local Port Name   : ssdp
+Local Address     : 192.168.1.102
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.52
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 6452
+Protocol          : UDP
+Local Port        : 1900
+Local Port Name   : ssdp
+Local Address     : 192.168.56.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.52
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 6412
+Protocol          : UDP
+Local Port        : 3702
+Local Port Name   : ws-discovery
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.51
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 3116
+Protocol          : UDP
+Local Port        : 3702
+Local Port Name   : ws-discovery
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.48
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : FDResPub
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 3864
+Protocol          : UDP
+Local Port        : 4500
+Local Port Name   : ipsec-msft
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\SYSTEM
+Process Services  : IKEEXT
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 7408
+Protocol          : UDP
+Local Port        : 5050
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.51.07
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : CDPSvc
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 15928
+Protocol          : UDP
+Local Port        : 5353
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.07.30
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 3168
+Protocol          : UDP
+Local Port        : 5353
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.45
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Quin69 - Twitch - Google Chrome
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 6452
+Protocol          : UDP
+Local Port        : 61861
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.52
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2676
+Protocol          : UDP
+Local Port        : 5353
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.48
+User Name         : NT-hallinta\Verkkopalvelu
+Process Services  : Dnscache
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2676
+Protocol          : UDP
+Local Port        : 5355
+Local Port Name   : llmnr
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.48
+User Name         : NT-hallinta\Verkkopalvelu
+Process Services  : Dnscache
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49519
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 104.18.13.133
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : UDP
+Local Port        : 50160
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 13328
+Protocol          : UDP
+Local Port        : 52266
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.07.20
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : UDP
+Local Port        : 53295
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 13328
+Protocol          : UDP
+Local Port        : 53319
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.07.20
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : UDP
+Local Port        : 54274
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 13328
+Protocol          : UDP
+Local Port        : 57059
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.07.20
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27080
+Protocol          : TCP
+Local Port        : 49321
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 152.199.19.161
+Remote Host Name  : 
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.07.05
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49249
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 104.18.13.133
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49210
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 18.165.123.139
+Remote Host Name  : server-18-165-123-139.hel51.r.cloudfront.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : UDP
+Local Port        : 61217
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 3116
+Protocol          : UDP
+Local Port        : 61301
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.48
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : FDResPub
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 3880
+Protocol          : UDP
+Local Port        : 61303
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\SYSTEM
+Process Services  : iphlpsvc
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 6452
+Protocol          : UDP
+Local Port        : 61862
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.52
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 6452
+Protocol          : UDP
+Local Port        : 61863
+Local Port Name   : 
+Local Address     : 192.168.56.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.52
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 6452
+Protocol          : UDP
+Local Port        : 61864
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.52
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 6412
+Protocol          : UDP
+Local Port        : 61865
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.51
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 13328
+Protocol          : UDP
+Local Port        : 62342
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.07.20
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 13328
+Protocol          : UDP
+Local Port        : 62343
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.07.20
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : UDP
+Local Port        : 63337
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : UDP
+Local Port        : 63605
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : UDP
+Local Port        : 63733
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 820
+Protocol          : TCP
+Local Port        : 135
+Local Port Name   : epmap
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.47
+User Name         : NT-hallinta\Verkkopalvelu
+Process Services  : RpcEptMapper, RpcSs
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 445
+Local Port Name   : microsoft-ds
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4432
+Protocol          : TCP
+Local Port        : 1801
+Local Port Name   : msmq
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\Verkkopalvelu
+Process Services  : MSMQ
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4432
+Protocol          : TCP
+Local Port        : 2103
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\Verkkopalvelu
+Process Services  : MSMQ
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4432
+Protocol          : TCP
+Local Port        : 2105
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\Verkkopalvelu
+Process Services  : MSMQ
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4432
+Protocol          : TCP
+Local Port        : 2107
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\Verkkopalvelu
+Process Services  : MSMQ
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 2869
+Local Port Name   : icslap
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5357
+Local Port Name   : wsd
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 60607
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 60610
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 60613
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 60616
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 60694
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 60901
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 60906
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 60909
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 60913
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 60918
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 60919
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 14836
+Protocol          : TCP
+Local Port        : 7680
+Local Port Name   : ms-do
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : DoSvc
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4592
+Protocol          : TCP
+Local Port        : 23130
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.07.03
+User Name         : NT-hallinta\SYSTEM
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4592
+Protocol          : TCP
+Local Port        : 23133
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.07.03
+User Name         : NT-hallinta\SYSTEM
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 9232
+Protocol          : TCP
+Local Port        : 42050
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.07.25
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 796
+Protocol          : TCP
+Local Port        : 49664
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.47
+User Name         : NT-hallinta\SYSTEM
+Process Services  : KeyIso, SamSs, VaultSvc
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 716
+Protocol          : TCP
+Local Port        : 49665
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 1464
+Protocol          : TCP
+Local Port        : 49666
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.47
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : EventLog
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 1344
+Protocol          : TCP
+Local Port        : 49667
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.47
+User Name         : NT-hallinta\SYSTEM
+Process Services  : Schedule
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 3324
+Protocol          : TCP
+Local Port        : 49668
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.49
+User Name         : NT-hallinta\SYSTEM
+Process Services  : Spooler
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4432
+Protocol          : TCP
+Local Port        : 49669
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\Verkkopalvelu
+Process Services  : MSMQ
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 788
+Protocol          : TCP
+Local Port        : 49675
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49517
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 216.58.210.164
+Remote Host Name  : hem08s07-in-f4.1e100.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 6452
+Protocol          : UDP
+Local Port        : 61859
+Local Port Name   : 
+Local Address     : fe80::4fda:789a:7de6:6f7b
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.52
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 27844
+Protocol          : TCP
+Local Port        : 49516
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 216.58.209.206
+Remote Host Name  : bud02s22-in-f206.1e100.net
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.11.46
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 7408
+Protocol          : TCP
+Local Port        : 5040
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.51.07
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : CDPSvc
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4432
+Protocol          : TCP
+Local Port        : 2107
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\Verkkopalvelu
+Process Services  : MSMQ
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4432
+Protocol          : TCP
+Local Port        : 2105
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\Verkkopalvelu
+Process Services  : MSMQ
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4432
+Protocol          : TCP
+Local Port        : 2103
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\Verkkopalvelu
+Process Services  : MSMQ
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4432
+Protocol          : TCP
+Local Port        : 1801
+Local Port Name   : msmq
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\Verkkopalvelu
+Process Services  : MSMQ
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 139
+Local Port Name   : netbios-ssn
+Local Address     : 192.168.56.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 139
+Local Port Name   : netbios-ssn
+Local Address     : 192.168.1.102
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 23680
+Protocol          : TCP
+Local Port        : 61090
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 93.184.220.29
+Remote Host Name  : 
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 6.1.2023 13.12.26
+User Name         : DESKTOP-A54A6T5\marku
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Kartat
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 3864
+Protocol          : UDP
+Local Port        : 500
+Local Port Name   : isakmp
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.50
+User Name         : NT-hallinta\SYSTEM
+Process Services  : IKEEXT
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 6452
+Protocol          : UDP
+Local Port        : 1900
+Local Port Name   : ssdp
+Local Address     : ::1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.52
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 6452
+Protocol          : UDP
+Local Port        : 1900
+Local Port Name   : ssdp
+Local Address     : fe80::4fda:789a:7de6:6f7b
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.52
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 6452
+Protocol          : UDP
+Local Port        : 1900
+Local Port Name   : ssdp
+Local Address     : fe80::ea12:d8b8:240a:521c
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.52
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 6412
+Protocol          : UDP
+Local Port        : 61866
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 5.1.2023 9.50.51
+User Name         : NT-hallinta\Paikallinen palvelu
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 49545
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 193.229.113.56
+Remote Host Name  : 
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 49523
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 51.104.136.2
+Remote Host Name  : 
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 49522
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 209.197.3.101
+Remote Host Name  : vip0x065.map2.ssl.hwcdn.net
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 49512
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 193.229.113.56
+Remote Host Name  : 
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 49511
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 193.229.113.56
+Remote Host Name  : 
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 49510
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 193.229.113.56
+Remote Host Name  : 
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 49509
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 193.229.113.56
+Remote Host Name  : 
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 49505
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 193.229.113.67
+Remote Host Name  : 
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 49503
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 193.229.113.67
+Remote Host Name  : 
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 49497
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 23.46.122.108
+Remote Host Name  : a23-46-122-108.deploy.static.akamaitechnologies.com
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 49463
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 18.165.122.43
+Remote Host Name  : server-18-165-122-43.hel51.r.cloudfront.net
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 49556
+Local Port Name   : 
+Local Address     : 192.168.1.102
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 104.26.7.201
+Remote Host Name  : 
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 6.1.2023 21.27.31
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
